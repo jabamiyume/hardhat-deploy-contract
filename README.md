@@ -1,4 +1,4 @@
-# Swisstronik Testnet 2.0 (Hardhat Deploy).
+# Swisstronik Testnet 2.0 (Deploy ERC-721 Token).
 
 Link : [Click!](https://www.swisstronik.com/testnet2/dashboard)
 
